@@ -1,0 +1,28 @@
+.jumbotron {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url(../undangan-nikah/img/header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#projects {
+  background-color: #efefef;
+}
+
+#mempelai {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #efefef;
+}
+
+#about {
+  background-color: #efefef;
+}
+
+#alamat {
+  background-color: #fff;
+}
+
+footer {
+  background-color: efefef;
+}
